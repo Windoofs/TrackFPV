@@ -3,6 +3,8 @@ Use your Fatshark or Skyzone goggles as a virtual reality headset.
 
 ####Fast overview: Use an Arduino Micro as a Joystick for OpenTrack with the input of your FPV-Headtracker.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lgsw95ZyV68/0.jpg)]
+
 ##1.Hardware:
 -	Arduino Micro (ATmega32U4 = featuring a built-in USB which makes the Micro recognizable as a joystick)
 -	3,5 mm phone jack from your goggle

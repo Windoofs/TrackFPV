@@ -1,6 +1,8 @@
 # TrackFPV
 Use your Fatshark or Skyzone goggles as a virtual reality headset.
 
+# moved to https://git.mosad.xyz/localhorst/TrackFPV
+
 #### Fast overview: Use an Arduino Micro as a Joystick for OpenTrack with the input of your FPV-Headtracker.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lgsw95ZyV68/0.jpg)]
